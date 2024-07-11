@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace WorkingWithEFCore2.Models;
 
-[Keyless]
+[Keyless] //Declara q as linhas retornada vem de uma view 
 public partial class ProductsAboveAveragePrice
 {
     [StringLength(40)]
