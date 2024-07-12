@@ -66,3 +66,4 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithEFC
 C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.genruntimeconfig.cache
 C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithEFCore\obj\Debug\net7.0\ref\WorkingWithEFCore.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithEFCore\obj\Debug\net7.0\WorkingWithEFCore.sourcelink.json

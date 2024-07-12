@@ -48,3 +48,4 @@ C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithSql
 C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithSqlClient2\obj\Debug\net7.0\WorkingWithSqlClient2.pdb
 C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithSqlClient2\obj\Debug\net7.0\WorkingWithSqlClient2.genruntimeconfig.cache
 C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithSqlClient2\obj\Debug\net7.0\ref\WorkingWithSqlClient2.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\WorkingWithSqlClient2\obj\Debug\net7.0\WorkingWithSqlClient2.sourcelink.json

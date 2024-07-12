@@ -1,0 +1,15 @@
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.deps.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.sourcelink.json
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\refint\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache
+C:\Users\BrunoSouza-Desk\Documents\Code\livroappdotnet7\chapter02\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\ref\Northwind.Common.EntityModels.SqlServer.dll
