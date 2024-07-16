@@ -13,6 +13,7 @@ namespace Packt.Shared;
 public partial class Customer
 {
     [Key]
+    [RegularExpression("[A-Z]{5}")]
     [Column("CustomerID")]
     [StringLength(5)]
     public string CustomerId { get; set; } = null!;
